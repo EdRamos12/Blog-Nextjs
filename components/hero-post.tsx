@@ -14,7 +14,6 @@ type Props = {
   excerpt: string
   author: Author
   slug: string
-  views: number
 }
 
 const HeroPost = ({
